@@ -1,0 +1,8 @@
+kagglehub==1.0.0            [ For downloading datasets from Kaggle ]
+tensorflow==2.9.0           [ For deep learning with Keras and TensorFlow]
+numpy==1.21.5               [ For numerical computations]
+scikit-learn==1.0.2         [ For classification metrics and machine learning utilities]
+matplotlib==3.5.1           [ For plotting graphs and visualizations]
+seaborn==0.11.2             [ For statistical data visualizations]
+Pillow==8.4.0               [ For image handling]
+glob2==0.7                  [ For using the glob module (used to find files matching a pattern)]
